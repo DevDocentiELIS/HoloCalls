@@ -120,7 +120,7 @@ The main function initializes video capture for both face and hand detection and
 
 
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPL-3.0 - see the LICENSE file for details.
 
 ## Contributions
 Contributions are welcome. Please fork the project and submit a pull request with your features.
